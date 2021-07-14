@@ -13,7 +13,7 @@ function ProfileSidebar(propriedade) {
 
 export default function Home() {
   const githubUser = 'rosanaemidio';
-  const pessoasFavoritas = ['peas', 'juunegreiros', 'omariosouto', 'felipefialho']
+  const pessoasFavoritas = ['jackelinenascimento', 'carolina-nobre', 'talibarbosa-hub', 'emamaia', 'RaissaMariaB']
   return(
     <>
       <AlurakutMenu />
@@ -24,7 +24,7 @@ export default function Home() {
         <div style={{gridArea: 'welcomeArea' }}>
           <Box >
             <h1 className="title">
-              Bem vindo
+              Bem vindo (a)
             </h1>
             <OrkutNostalgicIconSet />
           
